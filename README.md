@@ -44,7 +44,6 @@ sudo make install
 wget http://www.gaia-gis.it/gaia-sins/spatialite-tools-sources/spatialite-tools-5.0.1.tar.gz
 ```
 
-
 ### Dependencies
 ```
 sudo apt install libreadosm-dev
@@ -56,4 +55,6 @@ make
 
 ```
 sudo make install
+sudo apt-get install libsqlite3-mod-spatialite
+
 ```
